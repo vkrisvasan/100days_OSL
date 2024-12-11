@@ -16,3 +16,5 @@ Day 6: https://github.com/vkrisvasan/100days_OSL/blob/main/6_OSL_Phidata.ipynb  
 Day 7: https://github.com/vkrisvasan/100days_OSL/blob/main/7_OSL__ScrapegraphAI.ipynb Get the data you need from any website. Easily extract and gather information with just a few lines of code with a simple api. Turn websites into clean and usable structured data. https://scrapegraphai.com/
 
 Day 8: https://github.com/vkrisvasan/100days_OSL/blob/main/8_OSL__Crawl4AI.ipynb  Crawl4AI has one clear task: to make crawling and data extraction from web pages easy and efficient, especially for large language models (LLMs) and AI applications. Whether you are using it as a REST API or a Python library, Crawl4AI offers a robust and flexible solution with full asynchronous support. 
+
+Day 9: https://github.com/vkrisvasan/100days_OSL/blob/main/9_OSL_Autogen.ipynb AutoGen is an open-source framework that leverages multiple agents to enable complex workflows. 
