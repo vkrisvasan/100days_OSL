@@ -20,3 +20,5 @@ Day 8: https://github.com/vkrisvasan/100days_OSL/blob/main/8_OSL__Crawl4AI.ipynb
 Day 9: https://github.com/vkrisvasan/100days_OSL/blob/main/9_OSL_Autogen.ipynb AutoGen is an open-source framework that leverages multiple agents to enable complex workflows. 
 
 Day 10: https://github.com/vkrisvasan/100days_OSL/blob/main/10_OSL__Composio.ipynb. composio Integration Platform for AI Agents & LLMs. Developer First Agentic Integration Platform. Fastest way to Authenticate & Integrate LLM to tools via Function Calling
+
+Day 11: https://github.com/vkrisvasan/100days_OSL/blob/main/11_OSL__DSPy.ipynb DSPy is the framework for programming—rather than prompting—language models. It allows you to iterate fast on building modular AI systems and offers algorithms for optimizing their prompts and weights, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops.
